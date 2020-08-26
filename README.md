@@ -1,7 +1,8 @@
 # startbootstrap-sb-admin-2-react
 
-[-] Complete sidebar components
-[ ] Dark mode
-[ ] RTL support
-[ ] Complete navbar components
-[ ] ...
+###Todo list
+- [x] Complete sidebar components
+- [ ] Dark mode
+- [ ] RTL support
+- [ ] Complete navbar components
+- [ ] ...
